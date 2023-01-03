@@ -670,7 +670,7 @@ section {
   justify-content: center;
   width: 64px;
   height: 64px;
-  border: 2px solid #ffcbba;
+  border: 2px solid #9F013B;
   border-radius: 50px;
   transition: 0.5s;
   background: #fff;
@@ -2249,7 +2249,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #ffa587;
+  color: #9F013B;
   font-size: 18px;
   line-height: 1;
 }
