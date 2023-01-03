@@ -652,7 +652,7 @@ section {
 .about .icon-boxes h3 {
   font-size: 28px;
   font-weight: 700;
-  color: #554945;
+  color: #651332;
   margin-bottom: 15px;
 }
 
@@ -1529,10 +1529,16 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+.titulop{
+  text-decoration-color: white !important;
+  color: white;
+  text-transform: uppercase;
+}
 .contact .info-box {
   color: #313030;
   box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
   padding: 20px;
+  height: 150px;
 }
 
 .contact .info-box i {
