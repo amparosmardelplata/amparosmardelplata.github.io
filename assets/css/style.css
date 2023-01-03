@@ -1538,6 +1538,18 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+.fondotitulo{
+  color: #FFFFFF;
+  background-color: #9F013B;
+  padding: 5px;
+  border-radius: 5px;
+}
+.fondotitulo2{
+  color: #FFFFFF !important;
+  background-color: black;
+  padding: 5px;
+  border-radius: 5px;
+}
 .titulop{
   text-decoration-color: white !important;
   color: white;
